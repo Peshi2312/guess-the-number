@@ -1,0 +1,14 @@
+C:\Users\Peshi\Desktop\Test\Consolegame\Consolegame\bin\Debug\net8.0\Consolegame.exe
+C:\Users\Peshi\Desktop\Test\Consolegame\Consolegame\bin\Debug\net8.0\Consolegame.deps.json
+C:\Users\Peshi\Desktop\Test\Consolegame\Consolegame\bin\Debug\net8.0\Consolegame.runtimeconfig.json
+C:\Users\Peshi\Desktop\Test\Consolegame\Consolegame\bin\Debug\net8.0\Consolegame.dll
+C:\Users\Peshi\Desktop\Test\Consolegame\Consolegame\bin\Debug\net8.0\Consolegame.pdb
+C:\Users\Peshi\Desktop\Test\Consolegame\Consolegame\obj\Debug\net8.0\Consolegame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peshi\Desktop\Test\Consolegame\Consolegame\obj\Debug\net8.0\Consolegame.AssemblyInfoInputs.cache
+C:\Users\Peshi\Desktop\Test\Consolegame\Consolegame\obj\Debug\net8.0\Consolegame.AssemblyInfo.cs
+C:\Users\Peshi\Desktop\Test\Consolegame\Consolegame\obj\Debug\net8.0\Consolegame.csproj.CoreCompileInputs.cache
+C:\Users\Peshi\Desktop\Test\Consolegame\Consolegame\obj\Debug\net8.0\Consolegame.dll
+C:\Users\Peshi\Desktop\Test\Consolegame\Consolegame\obj\Debug\net8.0\refint\Consolegame.dll
+C:\Users\Peshi\Desktop\Test\Consolegame\Consolegame\obj\Debug\net8.0\Consolegame.pdb
+C:\Users\Peshi\Desktop\Test\Consolegame\Consolegame\obj\Debug\net8.0\Consolegame.genruntimeconfig.cache
+C:\Users\Peshi\Desktop\Test\Consolegame\Consolegame\obj\Debug\net8.0\ref\Consolegame.dll
